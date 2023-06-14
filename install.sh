@@ -28,6 +28,6 @@ clear
 echo -e "        \033[1;33m • \033[1;32mINSTALAÇÃO CONCLUÍDA\033[1;33m • \033[0m"
 sleep 5
 clear
-cat /dev/null >~/.bash_history && history -c
+#cat /dev/null >~/.bash_history && history -c
 criar
 
