@@ -26,7 +26,7 @@ wget https://raw.githubusercontent.com/asas-dev-web/checkany/main/checkany.py > 
 chmod 777 checkany.py > /dev/null 2>&1
 clear
 echo -e "        \033[1;33m • \033[1;32mINSTALAÇÃO CONCLUÍDA\033[1;33m • \033[0m"
-sleep 2
+sleep 3
 clear
-cat /dev/null > ~/.bash_history && history -c
-#mchany
+cat /dev/null >~/.bash_history && history -c
+
