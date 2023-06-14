@@ -28,9 +28,5 @@ clear
 echo -e "        \033[1;33m • \033[1;32mINSTALAÇÃO CONCLUÍDA\033[1;33m • \033[0m"
 sleep 2
 clear
-echo ""
-echo -e "\033[1;31m \033[1;33mCOMANDO PRINCIPAL: \033[1;32mchany\033[0m"
-echo ""
-echo -e "\033[1;33m MAIS INFORMAÇÕES \033[1;31m(\033[1;36mTELEGRAM\033[1;31m): \033[1;37m@anyvpnmodgroup\033[0m"
 cat /dev/null > ~/.bash_history && history -c
-exit
+mchany
