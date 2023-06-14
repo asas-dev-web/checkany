@@ -120,7 +120,7 @@ echo -e "\033[1;37m━━━━━━━━━━━━━━━━━━━━�
         echo -e "\033[1;31mSaindo...\033[0m"
         sleep 1
 		clear
-        exit
+        criar
     else
         echo ""
         echo -e "\033[1;31mOpção inválida!\033[0m"
