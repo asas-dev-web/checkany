@@ -29,4 +29,4 @@ echo -e "        \033[1;33m • \033[1;32mINSTALAÇÃO CONCLUÍDA\033[1;33m • 
 sleep 2
 clear
 cat /dev/null > ~/.bash_history && history -c
-mchany
+#mchany
